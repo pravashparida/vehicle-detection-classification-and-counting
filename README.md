@@ -1,6 +1,7 @@
 # computer vision and yolo project
 
 ### Tech used
+
 OpenCV
 YOLO 
 Classification algorithms 
